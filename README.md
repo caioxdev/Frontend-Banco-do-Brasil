@@ -52,6 +52,6 @@ npm run start  # 🌐 Servidor local com live-server
 ```
 ## 🌐 Rodar online
 
-O projeto está disponível no GitHub Pages:
+O projeto está hospedado no Vercel:
 
-[GitHub Pages](https://caioxdev.github.io/Frontend-Projeto-Banco-do-Brasil/)
+[Visualizar](https://front-end-banco-do-brasil-o70rqm4d5-caio-s-projects-5ff0d480.vercel.app/)
