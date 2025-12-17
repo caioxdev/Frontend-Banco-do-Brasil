@@ -52,6 +52,6 @@ npm run start  # 🌐 Servidor local com live-server
 ```
 ## 🌐 Rodar online
 
-O projeto está hospedado no Vercel:
+O projeto está hospedado no Vercel e pode ser acessado em:
 
-[Visualizar](https://front-end-banco-do-brasil-o70rqm4d5-caio-s-projects-5ff0d480.vercel.app/)
+[Visualizar](https://front-end-banco-do-brasil-c8rm9ns1e-caio-s-projects-5ff0d480.vercel.app/)
